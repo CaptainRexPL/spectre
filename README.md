@@ -4,7 +4,7 @@ The Minecraft security system Mojang should have created to stop griefers.
 
 # How it works
 
-1. Install the plugin.
+1. Install the mod.
 2. The whitelist is enabled by default.
 3. The first person to join the server is given operator. This person adds players to the whitelist.
 4. All players who join subsequently are put into spectator mode. They can't do anything to your server.
